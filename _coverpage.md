@@ -4,7 +4,7 @@
 
 # monItaas
 
-> Monitorer les instances OpenShift de l'ItaaS La Poste
+> Monitorer les instances OpenShift de l'ITaaS 
 
 * Déploiement sur OpenShift
 * Monitorer les pods et les noeuds
